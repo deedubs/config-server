@@ -1,0 +1,12 @@
+{
+  "name": "config-server",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "~3.2.6",
+    "up": "~0.2.2",
+    "speakeasy": "~1.0.3",
+    "debug": "~0.7.2",
+    "mongoose": "~3.6.11",
+    "jade": "~0.31.2"
+  }
+}
